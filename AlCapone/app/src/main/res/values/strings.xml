@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Al Capone</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="country_list">
+        <item>Select Country</item>
+        <item>Australia</item>
+        <item>United States Of America</item>
+
+    </string-array>
+
+    <string-array name="level_list">
+        <item>Select Level</item>
+        <item>Graduate</item>
+        <item>Post-graduate</item>
+    </string-array>
+
+
+
+    <string-array name="course_list">
+        <item>Select Course</item>
+        <item>Bachelor in Engineering</item>
+        <item>Bachelor in Management</item>
+    </string-array>
+
+
+
+
+</resources>
